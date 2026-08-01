@@ -9,7 +9,7 @@ I am a software engineer focused on building scalable, database driven applicati
 *   Building custom software solutions and exploring applied computer vision and machine learning.
 
 ### 💻 Tech Stack
-*   **Languages:** Java, C++, C, JavaScript, SQL, Assembly, VHDL
+*   **Languages:** Java, C++, C, JavaScript, SQL, Assembly, VHDL, Python
 *   **Frameworks & Tools:** Next.js, Spring Boot, React, Supabase (PostgreSQL), Redis, Vercel
 
 ### 📈 How I Work
