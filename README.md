@@ -5,7 +5,7 @@
 I am a software engineer focused on building scalable, database driven applications. I learn just in time, tackling real world problems by understanding the "why" rather than just memorizing the "how" from high level web architecture down to hardware and first principles.
 
 ### 🚀 Current Focus
-*   Co founding a software startup, actively pitching a flagship event ticketing platform built with **Next.js, Supabase, and Redis**.
+*   Co founding a software startup, actively pitching a flagship event ticketing platform built with **Next.js, Supabase and Redis**.
 *   Building custom software solutions and exploring applied computer vision and machine learning.
 
 ### 💻 Tech Stack
